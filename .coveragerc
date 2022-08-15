@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = daxigua
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    daxigua/__main__.py
